@@ -34,7 +34,7 @@ LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002160257812'))
 QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/c74e1ee08ed0fed54d3ab.jpg')
 START_IMG = environ.get('START_IMG', 'https://graph.org/file/8df5fc1c665cf1a838856.jpg')
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL','-1001971825063'))
-DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS',''))
+DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002160257812'))
 STICKERS_IDS = ('CAACAgQAAxkBAAEK99dlfC7LDqnuwtGRkIoacot_dGC4zQACbg8AAuHqsVDaMQeY6CcRojME').split()
 FILE_AUTO_DEL_TIMER = int(environ.get('FILE_AUTO_DEL_TIMER', '600'))
 
