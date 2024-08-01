@@ -21,7 +21,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '')
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
 USERNAME = environ.get('USERNAME', "https://telegram.me/rolexhxd")
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002160257812'))
-MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/Movies_Search_Groupp')
+MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/kungfupanda4_movies')
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002075903430').split()]
 
 #Mongo DB Info
@@ -65,7 +65,7 @@ PREMIUM_POINT = 1000
 #Fill Your Channel IDs 
 auth_channel = environ.get('AUTH_CHANNEL', '-1002021217229') #Your Force Subscribe channel Id 
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002130344978'))
+SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002002609918'))
 request_channel = environ.get('REQUEST_CHANNEL', '-1002160257812') #Requested Content Channel Id
 REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(request_channel) else None
 UPI_PAY_LOGS = int(environ.get('UPI_PAY_LOGS', '-1002236540396')) #Payment Screenshot Sending Channel 
