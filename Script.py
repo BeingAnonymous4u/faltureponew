@@ -102,7 +102,7 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/MisterBrutal'><b>ɴᴀᴍᴇ : {file_name} </a>\n\n Jᴏɪɴ Hᴇʀᴇ Fᴏʀ Uᴘᴅᴀᴛᴇs:\n https://t.me/Geeky_Updates\n https://t.me/Geeky_Updates</b>"""
+    FILE_CAPTION = """<a href='https://t.me/hdhindibackup'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
 
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
@@ -292,9 +292,9 @@ DONATE_TXT =  """
 
 Yᴏᴜ Cᴀɴ Dᴏɴᴀᴛᴇ 🎁 Aɴʏ Aᴍᴏᴜɴᴛ Yᴏᴜ Wɪsʜ Tᴏ Sᴜᴘᴘᴏʀᴛ Dᴇᴠᴇʟᴏᴘᴇʀ Eᴠᴇɴ 10ʀs Wɪʟʟ ʙᴇ Aᴘᴘʀᴇᴄɪᴀᴛᴇᴅ. </b>
 
-<b> 🛍️ UPI ID - </b>  <code> MisterBrutal@apl </code>
+<b> 🛍️ UPI ID - </b>  <code> @rolexhxd@upiid </code>
 
 <b> 📸 Sᴇɴᴅ Sᴄʀᴇᴇɴsʜᴏᴛ Hᴇʀᴇ Aɴᴅ I Wɪʟʟ Aᴅᴅ Yᴏᴜ As A Pʀᴇᴍɪᴜᴍ Mᴇᴍʙᴇʀ.
 
-Hᴇʀᴇ 👇 - @ig_1Venom </b> """
+Hᴇʀᴇ 👇 - @rolexhxd </b> """
 
