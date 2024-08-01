@@ -73,7 +73,7 @@ MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002118903912')
 
 
 # Online Stream and Download
-STREAM_MODE = bool(environ.get('STREAM_MODE', False)) # Set True or False
+STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set True or False
 
 # If Stream Mode Is True Then Fill All Required Variable, If False Then Don't
 MULTI_CLIENT = False
@@ -83,7 +83,7 @@ if 'DYNO' in environ:
     ON_HEROKU = False
 else:
     ON_HEROKU = True
-URL = environ.get("URL", "https://developed-marga-anonameous2nd-eb95b20c.koyeb.app/")
+URL = environ.get("URL", "https://precious-valida-anonameous2nd-6d28df1d.koyeb.app/")
 
 AUTO_FILTER = is_enabled('AUTO_FILTER', True)
 PORT = os.environ.get('PORT', '5000')
