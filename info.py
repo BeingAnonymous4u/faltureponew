@@ -83,7 +83,7 @@ if 'DYNO' in environ:
     ON_HEROKU = False
 else:
     ON_HEROKU = True
-URL = environ.get("URL", "https://precious-valida-anonameous2nd-6d28df1d.koyeb.app/")
+URL = environ.get("URL", "https://dl.kpsbots.workers.dev/")
 
 AUTO_FILTER = is_enabled('AUTO_FILTER', True)
 PORT = os.environ.get('PORT', '5000')
