@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/02b4e7137b3507c5dcac6.jpg">
+  <img src="https://graph.org/file/11192a1c4d6327b06f379.jpg">
 </p>
 <h1 align="center">
   Biisal Filter Bot
