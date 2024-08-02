@@ -592,7 +592,7 @@ async def lang_search(client: Client, query: CallbackQuery):
               ]
         
 
-    bbtn.insert(0,[
+    btn.insert(0,[
         InlineKeyboardButton("♻️ sᴇɴᴅ ᴀʟʟ", callback_data=batch_link),
         InlineKeyboardButton("🎭 ʟᴀɴɢᴜᴀɢᴇ", callback_data=f"languages#{key}#{offset}#{req}"),
         ])
