@@ -36,7 +36,7 @@ async def pm_search(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "sᴜᴘᴘᴏʀᴛ 😊", url=link
+                        "✅ Movie Search Group ✅", url=link
                     )
                 ]
             ]
@@ -771,10 +771,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
         ],[
             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-            InlineKeyboardButton('👩‍🌾 ᴀʙᴏᴜᴛ 🍃', callback_data=f'about'),
+            InlineKeyboardButton('🕵️ ᴀʙᴏᴜᴛ', callback_data=f'about'),
 	],
         [
-            InlineKeyboardButton('🎋 ʏᴏᴜʀ ᴘᴏɪɴᴛs ✨', callback_data=f'point#{query.from_user.id}'),
+            InlineKeyboardButton('🤹 ʏᴏᴜʀ ᴘᴏɪɴᴛs ✨', callback_data=f'point#{query.from_user.id}'),
             InlineKeyboardButton('💰 ᴘʀᴇᴍɪᴜᴍ 💎', callback_data='premium')
         ],
         [
@@ -853,7 +853,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "earn":
         buttons = [[
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start'),
-            InlineKeyboardButton('🦋 sᴜᴘᴘᴏʀᴛ', url="https://t.me/Brutal_Support" ),
+            InlineKeyboardButton('🍃 sᴜᴘᴘᴏʀᴛ', user_id = ADMINS[0] ),
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
