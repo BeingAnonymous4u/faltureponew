@@ -142,10 +142,10 @@ async def start(client:Client, message):
                             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                             ],[
                             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-                            InlineKeyboardButton('🌹 ᴀʙᴏᴜᴛ ', callback_data='about')
+                            InlineKeyboardButton('🍃 ᴀʙᴏᴜᴛ 🍃', callback_data='about')
                             ],
                             [
-                            InlineKeyboardButton('🎖️ʏᴏᴜʀ ᴘᴏɪɴᴛs 🎖️', callback_data=f'point#{message.from_user.id}'),
+                            InlineKeyboardButton('🎊 ᴘᴏɪɴᴛs ✨', callback_data=f'point#{message.from_user.id}'),
                             InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ 💎', callback_data='premium'),
                             ],
                             [
@@ -169,10 +169,10 @@ async def start(client:Client, message):
                             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                             ],[
                             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-                            InlineKeyboardButton('🌹 ᴀʙᴏᴜᴛ ', callback_data='about')
+                            InlineKeyboardButton('🍃 ᴀʙᴏᴜᴛ 🍃', callback_data='about')
                             ],
                             [
-                            InlineKeyboardButton('🎖️ʏᴏᴜʀ ᴘᴏɪɴᴛs 🎖️', callback_data=f'point#{message.from_user.id}'),
+                            InlineKeyboardButton('🎊 ᴘᴏɪɴᴛs ✨', callback_data=f'point#{message.from_user.id}'),
                             InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ 💎', callback_data='premium'),
                             ],
                             [
@@ -221,10 +221,10 @@ async def start(client:Client, message):
                             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                             ],[
                             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-                            InlineKeyboardButton('🌹 ᴀʙᴏᴜᴛ ', callback_data='about')
+                            InlineKeyboardButton('🍃 ᴀʙᴏᴜᴛ 🍃', callback_data='about')
                             ],
                             [
-                            InlineKeyboardButton('🎖️ʏᴏᴜʀ ᴘᴏɪɴᴛs 🎖️', callback_data=f'point#{message.from_user.id}'),
+                            InlineKeyboardButton('🎊 ᴘᴏɪɴᴛs ✨', callback_data=f'point#{message.from_user.id}'),
                             InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ 💎', callback_data='premium'),
                             ],
                             [
