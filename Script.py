@@ -41,7 +41,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-😃 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/Ig_1Venom">Venom 😎</a>
+😃 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/Rolexhxd">Venom 😎</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -180,11 +180,11 @@ Yᴏᴜʀ <u>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</u> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ�
 
 <blockquote>➥ /set_shortner zipshort.net 837b7a64653d1b435f5e20a237840f1251d0c1ce
 
-➥ /set_shortner_2 MisterBrutal.com f287e7e9b1a23c34f542f77787d39607cae36a4d
+➥ /set_shortner_2 Imdbshortner.com f287e7e9b1a23c34f542f77787d39607cae36a4d
 
 ➥ /set_shortner_3 Tnshort.net 06b24eb6bbb025713cd522fb3f696b6d5de1135
 
-➥ /set_tutorial https://t.me/MisterBrutal</blockquote>
+➥ /set_tutorial https://t.me/hdhindibackup/76</blockquote>
 
 ➥ ᴀᴅᴅ ʟᴏɢ ᴄʜᴀɴɴᴇʟ & ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ.
 
