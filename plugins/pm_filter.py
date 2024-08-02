@@ -841,10 +841,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             script.ABOUT_TEXT.format(query.from_user.mention(),temp.B_LINK),
             reply_markup = InlineKeyboardMarkup(
                 [[
-			InlineKeyboardButton('🌿 Jᴏɪɴ  Cʜᴀɴɴᴇʟ 🌿',url="https://t.me/hdhindibackup")
+			InlineKeyboardButton('🍿 Cʜᴀɴɴᴇʟ',url="https://t.me/hdhindibackup")
 		],[
-			InlineKeyboardButton('🔥 Mᴏᴠɪᴇs Gʀᴏᴜᴘ',url="https://t.me/+kstxmybhcg44ZWE1"),
-			InlineKeyboardButton('🦋 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ',url="https://t.me/iMdbChatRoom")
+			InlineKeyboardButton('❤️ Gʀᴏᴜᴘ',url="https://t.me/+kstxmybhcg44ZWE1"),
+			InlineKeyboardButton('ℹ️ Sᴜᴘᴘᴏʀᴛ',url="https://t.me/iMdbChatRoom")
 		],[
                        InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='start')]]
 	    ),
