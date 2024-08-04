@@ -1,9 +1,8 @@
 class script(object):
     START_TXT = """<b> ʜᴇʟʟᴏ <i>{}</i> 😎 {},
     
-<blockquote>ɪ ᴀᴍ ᴛʜᴇ ғᴀsᴛᴇsᴛ ⚡ ʙᴏᴛ ᴏɴ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ғᴏʀ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs 😌
-sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨</blockquote>
-<blockquote><i>ᴜsᴇ ᴍʏ ᴜsᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇs ᴄʟɪᴄᴋ ᴏɴ ꜰᴇᴀᴛᴜʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 🤞🏻</i></blockquote> \n
+ɪ ᴀᴍ ᴛʜᴇ ғᴀsᴛᴇsᴛ ⚡ ʙᴏᴛ ᴏɴ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ғᴏʀ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs 😌
+<blockquote><i>ᴜsᴇ ᴍʏ ᴜsᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇs ᴄʟɪᴄᴋ ᴏɴ ꜰᴇᴀᴛᴜʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 🤞🏻</i></blockquote> 
 <spoiler>ᴍᴀᴅᴇ ʙʏ ᴍʏ ᴍᴀsᴛᴇʀ - <a href="https://telegram.me/rolexhxd">✘𝐨✘𝐨</a></spoiler>
 </b>"""
     
