@@ -4,7 +4,7 @@ class script(object):
 <blockquote>ɪ ᴀᴍ ᴛʜᴇ ғᴀsᴛᴇsᴛ ⚡ ʙᴏᴛ ᴏɴ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ғᴏʀ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs 😌
 sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨</blockquote>
 <blockquote><i>ᴜsᴇ ᴍʏ ᴜsᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇs ᴄʟɪᴄᴋ ᴏɴ ꜰᴇᴀᴛᴜʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 🤞🏻</i></blockquote> \n
-<span class="tg-spoiler">🔋 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ - </span></b><a href="https://telegram.me/rolexhxd"><b><span class="tg-spoiler">✘𝐨✘𝐨</span></a>
+<spoiler>ᴍᴀᴅᴇ ʙʏ ᴍʏ ᴍᴀsᴛᴇʀ - <a href="https://telegram.me/rolexhxd">✘𝐨✘𝐨</a></spoiler>
 </b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
