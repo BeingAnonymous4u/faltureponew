@@ -2,7 +2,7 @@ class script(object):
     START_TXT = """<b> ʜᴇʟʟᴏ {}😎 {},
     
 ɪ ᴀᴍ ᴛʜᴇ ғᴀsᴛᴇsᴛ ⚡ ʙᴏᴛ ᴏɴ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀᴍ ғᴏʀ ᴍᴏᴠɪᴇs/sᴇʀɪᴇs 😌
-ᴍᴀᴅᴇ ʙʏ ᴍʏ ᴍᴀsᴛᴇʀ : <a href='https://telegram.me/user_id = ADMINS[0]'>ʙɪɪsᴀʟ</a>
+ᴍᴀᴅᴇ ʙʏ ᴍʏ ᴍᴀsᴛᴇʀ : <a href='https://telegram.me/user_id = ADMINS[0]'>Venom 😎</a>
 </b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
