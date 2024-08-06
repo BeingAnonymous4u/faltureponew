@@ -50,7 +50,7 @@ SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'modijiurl.com')
 SHORTENER_API3 = environ.get("SHORTENER_API3", "6a54929939ce53733fc891b96914eb017c2492a3")
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'ziplinker.net')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "1800"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "80000"))
+THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "120"))
 
 #Filters Available In Bot
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
