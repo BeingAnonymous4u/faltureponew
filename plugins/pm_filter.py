@@ -666,7 +666,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         clicker = int(query.data.split("#")[1])
         if clicker not in [query.from_user.id, 0]:
             return await query.answer(
-            f"Hey {query.from_user.first_name}, Jaldi Yeha Se Hato", show_alert=True
+            f"Hey {query.from_user.first_name}, ❌ ᴛʜᴀᴛ ɪs ɴᴏᴛ ғᴏʀ ʏᴏᴜ sɪʀ ⛔", show_alert=True
             )
         return await query.message.edit(script.REF_LINK.format(temp.U_NAME , clicker , PREMIUM_POINT) , reply_markup=InlineKeyboardMarkup([
 	    [InlineKeyboardButton('⋞ ʜᴏᴍᴇ', callback_data='start')]
@@ -675,7 +675,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         clicker = int(query.data.split("#")[1])
         if clicker not in [query.from_user.id, 0]:
             return await query.answer(
-            f"Hey {query.from_user.first_name}, Jaldi Yeha Se Hato", show_alert=True
+            f"Hey {query.from_user.first_name}, ❌ ᴛʜᴀᴛ ɪs ɴᴏᴛ ғᴏʀ ʏᴏᴜ sɪʀ ⛔", show_alert=True
             )
         newPoint = await db.get_point(clicker)
         
