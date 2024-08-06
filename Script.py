@@ -177,13 +177,13 @@ Yᴏᴜʀ <u>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</u> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ�
 ➥ ᴛʜᴇɴ ꜱᴇᴛ ʏᴏᴜʀ ꜱʜᴏʀᴛɴᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
 ♻️ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 : 👇
 
-<blockquote>➥ /set_shortner zipshort.net 837b7a64653d1b435f5e20a237840f1251d0c1ce
+<blockquote>➥ /set_shortner <code>zipshort.net 837b7a64653d1b435f5e20a237840f1251d0c1ce</code>
 
-➥ /set_shortner_2 Imdbshortner.com f287e7e9b1a23c34f542f77787d39607cae36a4d
+➥ /set_shortner_2 <code>Imdbshortner.com f287e7e9b1a23c34f542f77787d39607cae36a4d</code>
 
-➥ /set_shortner_3 Tnshort.net 06b24eb6bbb025713cd522fb3f696b6d5de1135
+➥ /set_shortner_3 <code>Tnshort.net 06b24eb6bbb025713cd522fb3f696b6d5de1135</code>
 
-➥ /set_tutorial https://t.me/hdhindibackup/76</blockquote>
+➥ /set_tutorial <code>https://t.me/hdhindibackup/76</code></blockquote>
 
 ➥ ᴀᴅᴅ ʟᴏɢ ᴄʜᴀɴɴᴇʟ & ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ʟᴏɢ ᴄʜᴀɴɴᴇʟ.
 
