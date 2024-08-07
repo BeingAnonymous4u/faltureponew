@@ -45,12 +45,12 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/howtoopenbotlink/2")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "4fc248c97d58d8cfdade494ba704020c0e13949b")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'zipshort.net')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "5ecd600442edab3c850eb6eceed0acfa9f8eb6b5")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'modijiurl.com')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "6a54929939ce53733fc891b96914eb017c2492a3")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'ziplinker.net')
+SHORTENER_API2 = environ.get("SHORTENER_API2", "4fc248c97d58d8cfdade494ba704020c0e13949b")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'zipshort.net')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "4fc248c97d58d8cfdade494ba704020c0e13949b")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'zipshort.net')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "1800"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "120"))
+THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "1800"))
 
 #Filters Available In Bot
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
