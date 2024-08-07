@@ -55,9 +55,9 @@ async def set_stream_link(client, message):
             await db.set_stream_link(link)
             await message.reply("Successfully set stream link!")
         else:
-            await message.reply("Usage: /stream https://t.me/hdhindibackup/232 or https://t.me/hdhindibackup")
+            await message.reply("Usage: /stream https://t.me/iMdbChatRoom or https://t.me/hdhindibackup")
     except IndexError:
-        await message.reply("Usage: /stream https://t.me/hdhindibackup/232 or https://t.me/hdhindibackup")
+        await message.reply("Usage: /stream https://t.me/iMdbChatRoom or https://t.me/hdhindibackup")
         return
 
 
