@@ -392,16 +392,17 @@ async def year_search(client: Client, query: CallbackQuery):
                    for file in files
               ]
         
-    btn.insert(0, [
-        InlineKeyboardButton("♻️ sᴇɴᴅ ᴀʟʟ", callback_data=batch_link),
-        InlineKeyboardButton("🎭 ʟᴀɴɢᴜᴀɢᴇ", callback_data=f"languages#{key}#{offset}#{req}"),
+    btn.insert(0,[
+        InlineKeyboardButton("✨ ᴄʜᴏᴏsᴇ season🍿", callback_data=f"seasons#{key}#{offset}#{req}")
         ])
     btn.insert(1, [
-        InlineKeyboardButton("🔥 ǫᴜᴀʟɪᴛʏ ", callback_data=f"qualities#{key}#{offset}#{req}"),
-        InlineKeyboardButton(" ʏᴇᴀʀ❗ ", callback_data=f"years#{key}#{offset}#{req}"),
-        InlineKeyboardButton(" ꜱᴇᴀꜱᴏɴ🍿 ", callback_data=f"seasons#{key}#{offset}#{req}"),
+        InlineKeyboardButton("✨ ǫᴜᴀʟɪᴛʏ 🤡", callback_data=f"qualities#{key}#{offset}#{req}"),
+        InlineKeyboardButton("🎭 ʟᴀɴɢᴜᴀɢᴇ ✨", callback_data=f"languages#{key}#{offset}#{req}"),
     ])
-    
+    btn.insert(2,[
+        InlineKeyboardButton("♻️ sᴇɴᴅ ᴀʟʟ", callback_data=batch_link),
+        ])
+
     if n_offset== '':
         btn.append(
             [InlineKeyboardButton(text="🚸 ɴᴏ ᴍᴏʀᴇ ᴘᴀɢᴇs 🚸", callback_data="buttons")]
