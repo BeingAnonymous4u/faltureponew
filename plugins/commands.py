@@ -142,10 +142,10 @@ async def start(client:Client, message):
                             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                             ],[
                             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-                            InlineKeyboardButton('🫠 ᴀʙᴏᴜᴛ', callback_data='about')
+                            InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about')
                             ],
                             [
-                            InlineKeyboardButton('📢 ʏᴏᴜʀ ᴘᴏɪɴᴛs ✨', callback_data=f'point#{message.from_user.id}'),
+                            InlineKeyboardButton('👥 ʏᴏᴜʀ ᴘᴏɪɴᴛs 🎉', callback_data=f'point#{message.from_user.id}'),
                             InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ 💎', callback_data='premium'),
                             ],
                             [
@@ -169,10 +169,10 @@ async def start(client:Client, message):
                             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                             ],[
                             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-                            InlineKeyboardButton('🫠 ᴀʙᴏᴜᴛ', callback_data='about')
+                            InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about')
                             ],
                             [
-                            InlineKeyboardButton('📢 ʏᴏᴜʀ ᴘᴏɪɴᴛs ✨', callback_data=f'point#{message.from_user.id}'),
+                            InlineKeyboardButton('👥 ʏᴏᴜʀ ᴘᴏɪɴᴛs 🎉', callback_data=f'point#{message.from_user.id}'),
                             InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ 💎', callback_data='premium'),
                             ],
                             [
@@ -221,10 +221,10 @@ async def start(client:Client, message):
                             InlineKeyboardButton('⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆', url=f'http://t.me/{temp.U_NAME}?startgroup=start')
                             ],[
                             InlineKeyboardButton('⚙ ꜰᴇᴀᴛᴜʀᴇs', callback_data='features'),
-                            InlineKeyboardButton('🫠 ᴀʙᴏᴜᴛ', callback_data='about')
+                            InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about')
                             ],
                             [
-                            InlineKeyboardButton('📢 ʏᴏᴜʀ ᴘᴏɪɴᴛs ✨', callback_data=f'point#{message.from_user.id}'),
+                            InlineKeyboardButton('👥 ʏᴏᴜʀ ᴘᴏɪɴᴛs 🎉', callback_data=f'point#{message.from_user.id}'),
                             InlineKeyboardButton('💰 ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ 💎', callback_data='premium'),
                             ],
                             [
@@ -257,8 +257,7 @@ async def start(client:Client, message):
             temp.CHAT[user_id] = grp_id
             verify = await get_shortlink(f"https://telegram.me/{temp.U_NAME}?start=notcopy_{user_id}_{verify_id}_{file_id}", grp_id, is_second_shortener, is_third_shortener , pm_mode=pm_mode)
             buttons = [[
-                InlineKeyboardButton(text="♻️ ᴠᴇʀɪғʏ 🎭", url=verify)
-            ],[
+                InlineKeyboardButton(text="♻️ ᴠᴇʀɪғʏ 🎭", url=verify),
                 InlineKeyboardButton(text="ʜᴏᴡ ᴛᴏ ᴠᴇʀɪғʏ ❓", url=settings['tutorial']),
             ],[ InlineKeyboardButton('ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ 💎',callback_data ='plans') 
                       ]]
