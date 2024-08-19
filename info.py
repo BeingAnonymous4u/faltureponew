@@ -32,7 +32,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002160257812'))
 QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/ccb9db43e62a2e524928e.jpg')
-START_IMG = environ.get('START_IMG', 'https://graph.org/file/8a2ad57240191e7f9bbfb.jpg')
+START_IMG = environ.get('START_IMG', 'https://graph.org/file/2b0290ceffc28df9029ec.jpg')
 BIN_CHANNEL = int(environ.get('BIN_CHANNEL','-1001971825063'))
 DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002160257812'))
 STICKERS_IDS = ('CAACAgQAAxkBAAEK99dlfC7LDqnuwtGRkIoacot_dGC4zQACbg8AAuHqsVDaMQeY6CcRojME').split()
