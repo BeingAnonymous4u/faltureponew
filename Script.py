@@ -37,7 +37,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ - Sᴇʀɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ T�
 ⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-😃 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/Rolexhxd">Venom 😎</a>
+😃 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/Rolexhxd">Tʜɪs ᴘᴇʀsᴏɴ</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
