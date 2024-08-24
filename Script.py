@@ -33,11 +33,13 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ - Sᴇʀɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ T�
 
     ABOUT_TEXT = """<b> ʜᴇʟʟᴏ ʙᴀʙʏɢɪʀʟ 😘 {},
     
-🤖 ɪ'ᴍ <a href=https://t.me/{}</a> 
-⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
-🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
-🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-😃 ᴍʏ ᴍᴀɴᴀɢᴇʀ : <a href="https://telegram.me/Rolexhxd">Tʜɪs ᴘᴇʀsᴏɴ</a>
+❍ ɪ'ᴍ <a href=https://t.me/{}</a> 
+❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://telegram.me/Rolexhxd">```мɪкєʏ```</a>
+❍ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
+❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
+❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
+❍ ʜᴏꜱᴛᴇᴅ ᴏɴ : <a href="https://t.me/hdhindibackup">ᴠᴘs</a>
+❍ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : ᴠ4.4.1 [ᴀᴅᴠᴀɴᴄᴇ ғᴇᴀᴛᴜʀᴇs]
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -47,7 +49,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ - Sᴇʀɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ T�
 
     
     REF_LINK = '''🔗 <b>Hᴇʀᴇ ɪs ᴏᴜʀ ʀᴇғᴇʀʀᴀʟ ʟɪɴᴋ 👇
-   ➥ ʟɪɴᴋ: <code>https://telegram.me/{}?start=movies-{}</code>
+   ➥ ʟɪɴᴋ: https://telegram.me/{}?start=movies-{}
     
 👥 Fᴏʀ ᴇᴠᴇʀʏ ɴᴇᴡ ᴜsᴇʀ ᴡʜᴏ sᴛᴀʀᴛs ᴛʜᴇ ʙᴏᴛ ᴜsɪɴɢ ᴛʜɪs ʟɪɴᴋ, ʏᴏᴜ ᴡɪʟʟ ʀᴇᴄᴇɪᴠᴇ 100 ᴘᴏɪɴᴛs. 
 
