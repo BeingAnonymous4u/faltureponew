@@ -34,7 +34,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ - Sᴇʀɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ T�
     ABOUT_TEXT = """<b> ʜᴇʟʟᴏ ʙᴀʙʏɢɪʀʟ 😘 {},
     
 ❍ ɪ'ᴍ <a href=https://t.me/{}</a> 
-❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://telegram.me/Rolexhxd">```мɪкєʏ```</a>
+❍ ᴄʀᴇᴀᴛᴏʀ : <a href="https://telegram.me/Rolexhxd">This Person</a>
 ❍ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ❍ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ❍ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
